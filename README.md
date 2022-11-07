@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @OrcaGav
-- 👀 I’m interested in video game programming
-- 🌱 I’m currently learning unity and c++
+
 
 
 <!---
